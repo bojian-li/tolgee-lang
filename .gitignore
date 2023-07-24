@@ -1,0 +1,6 @@
+/vendor/
+/runtime/
+.phpunit.result.cache
+.env
+.idea/
+```
